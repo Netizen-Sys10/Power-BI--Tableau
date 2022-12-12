@@ -3,7 +3,7 @@
 ## Description
 ### Tableau Public
 For my first project I used SQL and SQL-Server Management Studio to transform and clean a Covid data set. 
-The data tables were exported into Microsoft Excel and imported as csv files into Tableau, where I visualized them.
+The data tables were exported into Microsoft Excel and imported as csv files into Tableau, where I visualized them. The queries and data are available in the folder Tableau Covid Report.
 [The dashboard can be viewed here](https://public.tableau.com/views/CovidViz_16520365785630/Dashboard1?:language=de-DE&:display_count=n&:origin=viz_share_link).
 
 ![Covid Report](tableau_covid_report/Images/covid_report.png?raw=true "Covid Report")
